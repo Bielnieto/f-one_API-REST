@@ -1,0 +1,26 @@
+[
+  {
+    "nom": "Mercedes AMG F1",
+    "pais": "Alemanya",
+    "motor": "Mercedes",
+    "anyFundacio": 2010
+  },
+  {
+    "nom": "Scuderia Ferrari",
+    "pais": "Itàlia",
+    "motor": "Ferrari",
+    "anyFundacio": 1950
+  },
+  {
+    "nom": "Red Bull Racing",
+    "pais": "Regne Unit",
+    "motor": "Honda",
+    "anyFundacio": 2005
+  },
+  {
+    "nom": "Alpine F1 Team",
+    "pais": "França",
+    "motor": "Renault",
+    "anyFundacio": 2021
+  }
+]

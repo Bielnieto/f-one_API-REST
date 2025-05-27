@@ -1,0 +1,30 @@
+[
+  {
+    "nom": "Lewis Hamilton",
+    "edat": 39,
+    "nacionalitat": "Britànic",
+    "escuderia": "<ID_MERCEDES>",
+    "punts": 350
+  },
+  {
+    "nom": "Charles Leclerc",
+    "edat": 27,
+    "nacionalitat": "Monegasc",
+    "escuderia": "<ID_FERRARI>",
+    "punts": 220
+  },
+  {
+    "nom": "Max Verstappen",
+    "edat": 27,
+    "nacionalitat": "Neerlandès",
+    "escuderia": "<ID_REDBULL>",
+    "punts": 400
+  },
+  {
+    "nom": "Esteban Ocon",
+    "edat": 29,
+    "nacionalitat": "Francès",
+    "escuderia": "<ID_ALPINE>",
+    "punts": 110
+  }
+]
